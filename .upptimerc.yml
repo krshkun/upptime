@@ -7,11 +7,11 @@ sites:
     url: https://website-krshkun.vercel.app
   - name: 'Hack: Accsensible' 
     url: https://accsensible.vercel.app
-  - name:' Hack: Yeareso: Landing' 
+  - name: 'Hack: Yeareso: Landing' 
     url: https://krshkun.wixsite.com/yeareso
   - name: 'Hack: Yeareso: App' 
     url: https://yeareso-krshkun.vercel.app
-  - name:' Hack: FitFolk' 
+  - name: 'Hack: FitFolk' 
     url: https://krshkun.wixsite.com/fitfolk
 
 status-website:
